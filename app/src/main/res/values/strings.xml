@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">BarberiApp</string>
+    <string name="app_Register">Registro</string>
+    <string name="app_Login">Login</string>
+    <string name="info">Somos una barberia ubicada en el municipio de Bello-Antioquia, ofrecemos todo tipo de corte, afeitado de barba y arreglo de cejas, entre otros servicios.</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="explore">Explore</string>
+    <string name="store">Store</string>
+    <string name="account">Profile</string>
+    <string name="Servicios">¿ Cuales servicios en la Barberia desea ?</string>
+    <string name="Tienda">¿ Cual producto desea separar ? </string>
+
+    <string name="login_user">Ingrese su cuenta de usuario</string>
+    <string name="login_contrasena">Ingrese su contraseña</string>
+    <string name="comprobacion">Ingrese nuevamente su contraseña</string>
+    <string name="numero">Ingrese numero de contacto</string>
+    <string name="password">Ingrese Contraseña</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Servicios_Barber">Servicios de Barberia</string>
+    <string name="Productos">Productos de Barberia</string>
+    <string name="Seleccion_barber">Seleccione al barbero de su interés</string>
+    <string name="Productos_Barber">Tenemos a disposición productos de barberia</string>
+    <string name="perfil_citas">Cancelar o ver la citas</string>
+
+
+    <string name="B">Barbero</string>
+    <string name="A">Admin</string>
+
+    <string name="U">Usuario</string>
+    // Barbero
+
+    <string name="Citas">Citas asignadas </string>
+
+    <string name="PRODUCTOS">Ingrese el producto</string>
+    <string name="PRECIO">Ingrese el precio</string>
+
+    <string name="CANTIDAD">Ingrese la cantidad</string>
+    <string name="REGISTRAR">Registrar producto</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="productos_reser">Productos </string>
+    <string name="Barber_reser">Registrar Barbero </string>
+    <string name="Barber_Profile">Perfil</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
+

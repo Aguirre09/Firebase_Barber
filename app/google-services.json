@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709722337955",
+    "firebase_url": "https://barberiapp-7b84e.firebaseio.com",
+    "project_id": "barberiapp-7b84e",
+    "storage_bucket": "barberiapp-7b84e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709722337955:android:2afafa712381aa7bb0c516",
+        "android_client_info": {
+          "package_name": "com.example.barberi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709722337955-5hp419rn7eajhkf338hom8046kos1r8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLhLRlrLttPxe2HTo9fvP85zCN5LoPZ50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709722337955-5hp419rn7eajhkf338hom8046kos1r8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

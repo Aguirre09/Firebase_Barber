@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    /**
+    * Barra de tareas para el barbero
+    */
+
+    // Citas
+
+
+    <item android:id="@+id/navigationExplore"
+        android:title="@string/explore"
+        android:icon="@drawable/ic_explore" />
+
+    <item
+        android:id="@+id/navigationRegistroBarber"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/Barber_reser" />
+
+    // Productos Reservados
+
+    <item
+        android:id="@+id/navigationRegistroProductos"
+        android:icon="@drawable/barber_store"
+        android:title="@string/productos_reser" />
+
+
+
+
+
+
+
+
+</menu>

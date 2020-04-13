@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UserFrag.ProfileFragment">
+
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="400dp"
+        android:layout_height="612dp"
+        android:orientation = "horizontal"
+        >
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="208dp"
+            android:layout_height="115dp"
+            android:layout_marginBottom="416dp"
+            android:src="@drawable/ic_account"
+          />
+
+        <Button
+            android:id="@+id/Exit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            tools:layout_editor_absoluteX="284dp"
+            tools:layout_editor_absoluteY="49dp" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+
+
+
+
+
+
+</FrameLayout>

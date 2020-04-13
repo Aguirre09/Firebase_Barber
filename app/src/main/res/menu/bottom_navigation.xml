@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    /**
+    * Barra de tareas
+    */
+
+    <item android:id="@+id/navigationExplore"
+        android:title="@string/explore"
+        android:icon="@drawable/ic_explore" />
+
+    <item android:id="@+id/navigationDashboard"
+        android:title="@string/dashboard"
+        android:icon="@drawable/ic_dashboard" />
+
+
+    <item android:id="@+id/navigationStore"
+        android:title="@string/store"
+        android:icon="@drawable/ic_store" />
+
+
+    <item android:id="@+id/navigationAccount"
+        android:title="@string/account"
+        android:icon="@drawable/ic_account" />
+
+
+
+
+</menu>
